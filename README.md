@@ -1,0 +1,2 @@
+# newGoogle
+Google Güncel Görünümü
